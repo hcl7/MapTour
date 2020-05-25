@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MapTour</string>
+    <string name="title_map_api">South Albanian MapTour</string>
+    <string name="backbutton">Go Back</string>
+    <string name="loading">Welcome to MapTour \n\n Loading The Map...!</string>
+
+    <string name="Benc"><h3><b>Krahine ne jug te Shqiperise</b></h3></string>
+    <string name="Nivice"><h3><b>Krahine ne jug te Shqiperise</b></h3></string>
+    <string name="Gusmar"><h3><b>Krahine ne jug te Shqiperise</b></h3></string>
+    <string name="Kuc"><h3><b>Krahine ne jug te Shqiperise</b></h3></string>
+    <string name="Corraj"><h3><b>Krahine ne jug te Shqiperise</b></h3></string>
+    <string name="Borsh"><h3><b>Krahine e Sarandes ne jug te Shqiperise</b></h3></string>
+    <string name="Doshnice"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Dragot"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Fushebardhe"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Golem"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Hoshteve"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Kaparjel"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Kudhes"><h3><b>Krahine e Vlores ne jug te Shqiperise</b></h3></string>
+    <string name="Koncke"><h3><b>Krahine ne Gjirokaster e jug te Shqiperise</b></h3></string>
+    <string name="Lekdush"><h3><b>Krahine ne jug te Shqiperise</b></h3></string>
+    <string name="Leskaj"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Nivan"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Peshtan"><h3><b>Krahine e Tepelenes ne jug te Shqiperise</b></h3></string>
+    <string name="Polican"><h3><b>Krahine e Beratit ne jug te Shqiperise</b></h3></string>
+    <string name="Progonat"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Qeparo"><h3><b>Krahine e Vlores ne jug te Shqiperise</b></h3></string>
+    <string name="Sarande"><h3><b>Qytet ne jug te Shqiperise</b></h3></string>
+    <string name="Selenice"><h3><b>Krahine e Vlores ne jug te Shqiperise</b></h3></string>
+    <string name="Sheper"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Skore"><h3><b>Krahine ne jug te Shqiperise</b></h3></string>
+    <string name="Sopik"><h3><b>Krahine e Gjirokaster ne jug te Shqiperise</b></h3></string>
+    <string name="Tepelene"><h3><b>Qytet ne Shqiperine e mesme</b></h3></string>
+    <string name="Zhulat"><h3><b>Qytet e Gjirokaster ne Shqiperine e mesme</b></h3></string>
+
+    <string name="cities_desc">City Description</string>
+    <string name="main_app">MainApp</string>
+    <string name="webview_app">South Albanian Map</string>
+</resources>
